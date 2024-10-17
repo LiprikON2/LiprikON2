@@ -7,7 +7,7 @@
 <table>
 <tr>
 <th align="center">
-<img width="401" height="1">
+<img width="201" height="1">
 <p>
 
 
@@ -25,7 +25,7 @@ Bookord <sub><sub>TS</sub></sub>
 </p>
 </th>
 <th align="center">
-<img width="441" height="1">
+<img width="201" height="1">
 <p> 
 
 <p align="middle">
