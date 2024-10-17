@@ -7,7 +7,7 @@
 <table>
 <tr>
 <th align="center">
-<img width="441" height="1">
+<img width="401" height="1">
 <p>
 
 
