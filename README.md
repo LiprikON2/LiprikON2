@@ -143,3 +143,13 @@ Spaceorbit.io <sub><sub>TS</sub></sub>
 
 
 </table>
+
+
+### Выполненные технические задания
+
+#### Frontend - React/Canvas
+[Игра "Дуэль"](https://github.com/LiprikON2/Microboard-Technical-Assessment)
+
+
+#### Backend - Microservices
+[Сервис остатков товаров в магазине](https://github.com/LiprikON2/Effective-Mobile-Technical-Assessment)
