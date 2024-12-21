@@ -145,11 +145,14 @@ Spaceorbit.io <sub><sub>TS</sub></sub>
 </table>
 
 
-### Выполненные технические задания
+### Примеры выполненных технических заданий
 
-#### Frontend - React/Canvas
-[Игра "Дуэль"](https://github.com/LiprikON2/Microboard-Technical-Assessment)
+#### Frontend
+
+- Задание на React, Canvas - [Игра "Дуэль"](https://github.com/LiprikON2/Microboard-Technical-Assessment)
 
 
-#### Backend - Microservices
-[Сервис остатков товаров в магазине](https://github.com/LiprikON2/Effective-Mobile-Technical-Assessment)
+#### Backend
+
+- Задание на Node.js микросервисы [Сервис остатков товаров в магазине](https://github.com/LiprikON2/Effective-Mobile-Technical-Assessment)
+- Задание на Go микросервис [Часть сервиса аутентификации](https://github.com/LiprikON2/Medods-Technical-Assessment)
