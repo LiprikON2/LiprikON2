@@ -154,5 +154,5 @@ Spaceorbit.io <sub><sub>TS</sub></sub>
 
 #### Backend
 
-- Задание на Node.js микросервисы [Сервис остатков товаров в магазине](https://github.com/LiprikON2/Effective-Mobile-Technical-Assessment)
-- Задание на Go микросервис [Часть сервиса аутентификации](https://github.com/LiprikON2/Medods-Technical-Assessment)
+- Задание на Node.js микросервисы - [Сервис остатков товаров в магазине](https://github.com/LiprikON2/Effective-Mobile-Technical-Assessment)
+- Задание на Go микросервис - [Часть сервиса аутентификации](https://github.com/LiprikON2/Medods-Technical-Assessment)
