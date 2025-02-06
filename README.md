@@ -148,10 +148,14 @@ Spaceorbit.io <sub><sub>TS</sub></sub>
 
 - Задание на React, Canvas - [Игра "Дуэль"](https://github.com/LiprikON2/Microboard-Technical-Assessment)
 - Задание на React, Konva - [Редактор фигур](https://github.com/LiprikON2/Crafttech-Technical-Assessment)
-- Задание на Vue + Nestjs - [amoCRM интеграция](https://github.com/LiprikON2/Gnzs-Technical-Assessment)
 
 
 ### Backend
 
 - Задание на Node.js микросервисы - [Сервис остатков товаров в магазине](https://github.com/LiprikON2/Effective-Mobile-Technical-Assessment)
 - Задание на Go микросервис - [Часть сервиса аутентификации](https://github.com/LiprikON2/Medods-Technical-Assessment)
+
+### Fullstack
+
+- Задание на Vue + Nestjs - [amoCRM интеграция](https://github.com/LiprikON2/Gnzs-Technical-Assessment)
+
