@@ -147,6 +147,8 @@ Spaceorbit.io <sub><sub>TS</sub></sub>
 ### Frontend
 
 - Задание на React, Canvas - [Игра "Дуэль"](https://github.com/LiprikON2/Microboard-Technical-Assessment)
+- Задание на React, Konva - [Редактор фигур](https://github.com/LiprikON2/Crafttech-Technical-Assessment)
+- Задание на Vue + Nestjs - [amoCRM интеграция](https://github.com/LiprikON2/Gnzs-Technical-Assessment)
 
 
 ### Backend
